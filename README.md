@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="DefenseLogo.png" alt="Defence Logistics Logo" width="120"/>
@@ -389,3 +390,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 *"Equipped for precision. Engineered for defence."*
 
 </div>
+=======
+# Defence-Logistics-And-Inventory-Managment-System
+DBMS project 
+>>>>>>> 2b19d29a1e512615e429fe50289f53173ea2de99
