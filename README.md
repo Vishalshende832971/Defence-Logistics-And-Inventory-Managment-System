@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img src="DefenseLogo.png" alt="Defence Logistics Logo" width="120"/>
