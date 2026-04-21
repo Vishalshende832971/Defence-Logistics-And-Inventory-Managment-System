@@ -377,20 +377,4 @@ The application applies a global **Dark Military Theme** using Java Swing's `UIM
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**Built with** ☕ **Java and** 🛡️ **pride at MIT Academy of Engineering**
-
-*"Equipped for precision. Engineered for defence."*
-
-</div>
-=======
-# Defence-Logistics-And-Inventory-Managment-System
-DBMS project 
->>>>>>> 2b19d29a1e512615e429fe50289f53173ea2de99
