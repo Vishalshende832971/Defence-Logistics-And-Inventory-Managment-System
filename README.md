@@ -371,9 +371,12 @@ The application applies a global **Dark Military Theme** using Java Swing's `UIM
 
 ## 🤝 Contributors
 
-| Name | Role |
+| Name | PRN |
 |------|------|
-| Your Name | Developer / Designer |
+| Vishal Shende | 202401110034 |
+| Vinay Dhake | 202401110031 |
+| Pratik Mane | 202401110033 |
+| Harshad Dokhare | 202401110024 |
 
 ---
 
